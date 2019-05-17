@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TodoAppJava</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="enter_date">Enter Date</string>
+    <string name="enter_todo">Enter todo</string>
+    <string name="save_todo">Save todo</string>
+    <string name="save_update">Update todo</string>
+
+    <string name="priority_select">Select priority</string>
+    <string name="priority_low">Low</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_high">High</string>
+
+    <string-array name="priority">
+        <item>@string/priority_select</item>
+        <item>@string/priority_low</item>
+        <item>@string/priority_medium</item>
+        <item>@string/priority_high</item>
+    </string-array>
+</resources>
